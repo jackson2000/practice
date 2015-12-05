@@ -1,4 +1,28 @@
+body {
+  font-family: 'Pacifico', cursive;
+}
+
+img {
+  max-width: 100%;
+}
 
 h1 {
-  color: red;
+
+}
+
+p {
+
+}
+
+.class {
+
+}
+
+div {
+  margin: 0 auto;
+  max-width: 1100px;
+}
+
+h2 {
+
 }
